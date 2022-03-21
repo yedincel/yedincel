@@ -4,10 +4,17 @@
 - I'm studying to be a full stack developer  <span style='font-size:36px;'>&#128187;</span>
 - I'm striving to work in different fields and to improve myself <span style='font-size:36px;'>&#128269;</span>
 - I love history, literature and computer games <span style='font-size:36px;'>&#127918;</span> 
-
+### Languages and Tools:
+<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="max-width: 100%;"><a/>
+  
 <br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yedincel&show_icons=true&theme=tokyonight)
 # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yedincel&layout=compact&theme=tokyonight)
-### REACH ME
+  
+### Reach Me
 <a href="https://www.linkedin.com/in/yakup-emirhan-dincel/">
 <img style="float:right; width:32px; height:32px;" src="https://www.kaydet.com/images/icons/linkedin.png" alt="Linkedin">
 </a>
