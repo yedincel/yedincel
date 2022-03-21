@@ -5,8 +5,8 @@
 - I'm striving to work in different fields and to improve myself <span style='font-size:36px;'>&#128269;</span>
 - I love history, literature and computer games <span style='font-size:36px;'>&#127918;</span>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yedincel&show_icons=true&theme=dracula)
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yedincel&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yedincel&show_icons=true&theme=radical)
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yedincel&layout=compact&theme=radical)
 ### REACH ME
 <a href="https://www.linkedin.com/in/yakup-emirhan-dincel/">
 <img style="float:right; width:32px; height:32px;" src="https://www.kaydet.com/images/icons/linkedin.png" alt="Linkedin">
