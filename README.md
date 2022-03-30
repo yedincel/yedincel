@@ -12,8 +12,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="max-width: 100%;"><a/>
   
-<br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yedincel&show_icons=true&theme=tokyonight)
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yedincel&layout=compact&theme=tokyonight)
+<br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yedincel&show_icons=true&theme=nightowl)
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yedincel&layout=compact&theme=nightowl)
   
 ### Reach Me
 <a href="https://www.linkedin.com/in/yakup-emirhan-dincel/">
