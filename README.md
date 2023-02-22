@@ -1,9 +1,9 @@
 ## Hi everyone I'm Yakup&#128126;
 ###
-- I'am a computer engineer student living in Istanbul
-- I was Intern Developer at Gratis -> www.gratis.com
-- I'am trainee at Google Oyun ve Uygulama Akademisi -> www.oyunveuygulamaakademisi.com
-- I work as a part-time software developer at Migros -> www.migros.com.tr ⚡
+I'am a computer engineer student living in Istanbul<br>
+I'am trainee at Google Oyun ve Uygulama Akademisi - www.oyunveuygulamaakademisi.com <br>
+I work as a part-time software developer at Migros - www.migros.com.tr ⚡<br>
+For more information about me - www.yedincel.com 
 ### Languages and Tools:
 <a><img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" alt="plsql" width="45" height="45" style="max-width: 100%;">
 <img src="https://hub.meltano.com/assets/logos/extractors/mssql.png" alt="plsql" width="40" height="40" style="max-width: 100%;">
