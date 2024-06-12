@@ -14,4 +14,4 @@ For more information about me - www.yedincel.com
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="max-width: 100%;"></a>
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yedincel&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yedincel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
