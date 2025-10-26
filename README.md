@@ -1,7 +1,7 @@
 ## Hi everyone I'm Yakup👋
 ###
 I am a computer engineer.<br>
-I work as a Jr. Software Engineer at <a href="https://www.migros.com.tr">Migros<a>⚡<br>
+I work as a Specialist Software Engineer at <a href="https://www.migros.com.tr">Migros<a>⚡<br>
 For more information about me - www.yedincel.com
 ### Languages and Tools:
 <a><img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" alt="plsql" width="45" height="45" style="max-width: 100%;">
